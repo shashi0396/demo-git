@@ -1,2 +1,9 @@
 target/
+# java 
 Jenkinsfile
+
+# nodejs
+node_modules/
+
+# python
+__pycache__/
