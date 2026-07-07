@@ -7,5 +7,3 @@ hi this is shashi
 
 
 hi this commit is from microdegree - tuesday morning class at 4:30pm
-
-this is commit from github cloud
