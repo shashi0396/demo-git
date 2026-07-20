@@ -23,5 +23,10 @@ pipeline {
                 echo 'adding statements for stage view'
             }
         }
+        stage('Test Webhook'){
+            steps {
+                echo "testing webhook functionality"
+            }
+        }
     }
 }
