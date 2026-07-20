@@ -1,6 +1,5 @@
 target/
 # java 
-Jenkinsfile
 
 # nodejs
 node_modules/
