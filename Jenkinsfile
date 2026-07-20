@@ -4,6 +4,7 @@ pipeline {
     stages {
         stage('Build'){
             steps {
+                sh 'ls -la'
                 echo 'this is first declaration of build stage'
             }
         }
