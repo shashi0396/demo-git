@@ -20,6 +20,7 @@ pipeline {
         stage('Testing poll scm'){
             steps {
                 echo 'testing the jenkins scm polling'
+                echo 'adding statements for stage view'
             }
         }
     }
