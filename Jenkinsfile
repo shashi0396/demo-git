@@ -17,5 +17,10 @@ pipeline {
                 echo 'this is first declaration of test stage'
             }
         }
+        stage('Testing poll scm'){
+            steps {
+                echo 'testing the jenkins scm polling'
+            }
+        }
     }
 }
